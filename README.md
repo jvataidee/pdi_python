@@ -17,7 +17,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - Scikit-learn
 
 ## Projects
-- [`install_libs_pdipython`](https://github.com/jvataidee/pdi_python/blob/master/install_libs_pdipython.ipynb): Notebook mostrando o passo a passo para instalar as bibliotecas e configuração de ambiente usandoo google colab.
+- [`conversao_radiancia_de_superficie.ipynb`](https://github.com/jvataidee/pdi_python/blob/master/conversao_radiancia_de_superficie.ipynb): Notebook mostrando o passo a passo para instalar as bibliotecas e configuração de ambiente usandoo google colab, e posteriormente o processamento de iamgem para realizar a conversão e processamento de reflectâncias.
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
