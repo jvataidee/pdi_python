@@ -8,6 +8,13 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - rsglin
 - Py6S
 - Spectral
+- Earthpy
+- Rasterio
+- Tifffile
+- Scipy
+- Numpy
+- Matplotlib
+- Scikit-learn
 
 ## Projects
 - [`install_libs_pdipython`](https://github.com/jvataidee/pdi_python/blob/master/install_libs_pdipython.ipynb): Notebook mostrando o passo a passo para instalar as bibliotecas e configuração de ambiente usandoo google colab.
