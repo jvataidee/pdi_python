@@ -5,7 +5,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 
 ## Tecnologias
 - Python
-- rsglin
+- rsgislib
 - Py6S
 - Spectral
 - Earthpy
