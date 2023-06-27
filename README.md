@@ -18,7 +18,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 
 ## Projects
 - [`conversao_radiancia_de_superficie.ipynb`](https://github.com/jvataidee/pdi_python/blob/master/conversao_radiancia_de_superficie.ipynb): Notebook mostrando o passo a passo para instalar as bibliotecas e configuração de ambiente usandoo google colab, e posteriormente o processamento de iamgem para realizar a conversão e processamento de reflectâncias.
-- [`composicao_imagens_e_contraste.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/composicao_imagens_e_contraste.ipynb): Notebook mostrando o passo a passo como realizar composição de imagens e ajuste de constraste.
+- [`composicao_imagens_e_contraste.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/composicao_imagens_e_contraste.ipynb): Notebook demonstrando o processo passo a passo para realizar a composição de imagens e ajuste de contraste.
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
