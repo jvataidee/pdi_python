@@ -5,6 +5,8 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 
 ## Tecnologias
 
+| Coluna 1    | Coluna 2      |
+|-------------|---------------|
 | Python      | Scipy         |
 | rsgislib    | Numpy         |
 | Py6S        | Matplotlib    |
@@ -12,6 +14,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 | Earthpy     |               |
 | Rasterio    |               |
 | Tifffile    |               |
+
 
 
 ## Projects
