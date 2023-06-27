@@ -6,7 +6,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 ## Tecnologias
 
 ## Projects
-- [`Instagram_filters-project.ipynb`]():
+- [``]():
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
