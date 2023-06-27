@@ -1,4 +1,4 @@
-![Project Image](PDIPYTHON.png)
+![Project Image](banner.png)
 # Repositório de Processamento Digital de Imagens de Satélites com Python
 
 Este repositório é dedicado ao processamento digital de imagens de satélites com Python e foi criado por João Ataíde, Cientista de Dados na Imagem Esri.
