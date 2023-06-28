@@ -14,6 +14,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - Scipy
 - Numpy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
 ## Projects
