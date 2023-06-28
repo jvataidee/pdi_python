@@ -21,7 +21,8 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - [`composicao_imagens_e_contraste.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/composicao_imagens_e_contraste.ipynb): Notebook demonstrando o processo passo a passo para realizar a composição de imagens e ajuste de contraste.
 - [`descorr_homozenizacao.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/descorr_homozenizacao.ipynb): Notebook demonstrando o processo passo a passo para realizar a descorrelação, homogenização de contraste.
 - [`Integração_fusao_e_operacoes.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/Integra%C3%A7%C3%A3o_fusao_e_operacoes.ipynb): Este notebook é uma demonstração do processo passo a passo para realizar fusão e integração de bandas em imagens, bem como operações algebricas de bandas, como subtração, soma, multiplicação e razão.
-- [`PCA_Tranformacoes.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/PCA_Tranformacoes.ipynb): Este notebook é uma demonstração do processo passo a passo para realizar fusão e Principal Componentes (PCA) e Tranformações de Imagens.
+- [`PCA_Tranformacoes.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/PCA_Tranformacoes.ipynb): Notebook demonstrando do processo passo a passo para realizar fusão e Principal Componentes (PCA) e Tranformações de Imagens.
+- [`classificacao_nao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_nao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação não supervisionada.
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
