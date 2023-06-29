@@ -24,7 +24,8 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - [`descorr_homozenizacao.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/descorr_homozenizacao.ipynb): Notebook demonstrando o processo passo a passo para realizar a descorrelação, homogenização de contraste.
 - [`Integração_fusao_e_operacoes.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/Integra%C3%A7%C3%A3o_fusao_e_operacoes.ipynb): Este notebook é uma demonstração do processo passo a passo para realizar fusão e integração de bandas em imagens, bem como operações algebricas de bandas, como subtração, soma, multiplicação, razão (índices).
 - [`PCA_Tranformacoes.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/PCA_Tranformacoes.ipynb): Notebook demonstrando do processo passo a passo para realizar fusão e Principal Componentes (PCA) e Tranformações de Imagens.
-- [`classificacao_nao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_nao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação não supervisionada.
+- [`classificacao_nao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_nao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação não supervisionada: KMeans e Cluster.
+- [`classificacao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação supervisionada: Nearest Neighbors, Multi-Layer Perceptron, KNN, Random Forest e SVM.
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
