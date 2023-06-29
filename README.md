@@ -26,6 +26,8 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - [`PCA_Tranformacoes.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/PCA_Tranformacoes.ipynb): Notebook demonstrando do processo passo a passo para realizar fusão e Principal Componentes (PCA) e Tranformações de Imagens.
 - [`classificacao_nao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_nao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação não supervisionada: KMeans e Cluster.
 - [`classificacao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação supervisionada: Nearest Neighbors, Multi-Layer Perceptron, KNN, Random Forest e SVM.
+- [`classificao_orientada_objeto.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificao_orientada_objeto.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação orientada a objetos, mostrando segmentadores e etapas principais.
+- [`mosaic_images.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/mosaic_images.ipynb): Notebook demonstrando o processo passo a passo de realizar o mosaico de varias imagens.
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
