@@ -1,7 +1,7 @@
 ![Project Image](banner.png)
 # Repositório de Processamento Digital de Imagens de Satélites com Python
 
-Este repositório é dedicado ao processamento digital de imagens de satélites com Python e foi criado por João Ataíde, Cientista de Dados na Imagem Esri.
+Este repositório é dedicado ao processamento digital de imagens de satélites com Python, esse arquivos aqui foram insperado e baseado no período de estudo do curso Processamento Digital de Imagens com Python (PDIpy) e foi criado por João Ataíde, Cientista de Dados e Egenenheiro de Visão Computacional.
 
 ## Tecnologias
 - Python
@@ -28,6 +28,9 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - [`classificacao_supervisionada.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificacao_supervisionada.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação supervisionada: Nearest Neighbors, Multi-Layer Perceptron, KNN, Random Forest e SVM.
 - [`classificao_orientada_objeto.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/classificao_orientada_objeto.ipynb): Notebook demonstrando o processo passo a passo de realizar uma classificação orientada a objetos, mostrando segmentadores e etapas principais.
 - [`mosaic_images.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/mosaic_images.ipynb): Notebook demonstrando o processo passo a passo de realizar o mosaico de varias imagens.
+  
+## Link do Curso
+Você pode acessar o cruso [Processamento Digital de Imagem com Python)](https://hotmart.com/pt-br/marketplace/produtos/pdipy/I59855088H).
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
