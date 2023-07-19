@@ -30,7 +30,7 @@ Este repositório é dedicado ao processamento digital de imagens de satélites 
 - [`mosaic_images.ipynb`](https://github.com/jvataidee/pdi_python/blob/main/mosaic_images.ipynb): Notebook demonstrando o processo passo a passo de realizar o mosaico de varias imagens.
   
 ## Link do Curso
-Você pode acessar o cruso [Processamento Digital de Imagem com Python)](https://hotmart.com/pt-br/marketplace/produtos/pdipy/I59855088H).
+Você pode acessar o curso [Processamento Digital de Imagem com Python)](https://hotmart.com/pt-br/marketplace/produtos/pdipy/I59855088H).
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
